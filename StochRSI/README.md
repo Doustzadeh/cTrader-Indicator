@@ -12,5 +12,5 @@ StochRSI measures the value of RSI relative to its high/low range over a set num
 - 14-day StochRSI equals 0.2 when RSI is near the low of its 14-day high-low range.
 - 14-day StochRSI equals 0.80 when RSI is near the high of its 14-day high-low range.
 
-More details: [StochRSI Indicator](https://ctrader.com/algos/indicators/show/2886)
+More details: [StochRSI Indicator](https://ctrader.com/algos/indicators/show/2886) and [StochRSI [ChartSchool]](https://school.stockcharts.com/doku.php?id=technical_indicators:stochrsi)
 
