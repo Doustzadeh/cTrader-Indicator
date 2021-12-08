@@ -6,5 +6,5 @@ Developed by Martin Pring, Know Sure Thing (KST) is a momentum oscillator based 
 - Medium-term Weekly = KST(10,13,15,20,10,13,15,20,9)
 - Long-term Monthly = KST(9,12,18,24,6,6,6,9,9)
 
-More details: [Know Sure Thing (KST) Indicator](https://ctrader.com/algos/indicators/show/2883)
+More details: [Know Sure Thing (KST) Indicator](https://ctrader.com/algos/indicators/show/2883) and [Know Sure Thing (KST) [ChartSchool]](https://school.stockcharts.com/doku.php?id=technical_indicators:know_sure_thing_kst)
 
