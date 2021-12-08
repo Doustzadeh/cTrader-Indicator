@@ -6,5 +6,5 @@ Generally speaking, volume is above average when the PVO is positive and below a
 
 Even though the PVO is based on a momentum oscillator formula, it is important to remember that moving averages lag.
 
-More details: [Percentage Volume Oscillator (PVO) Indicator](https://ctrader.com/algos/indicators/show/2882)
+More details: [Percentage Volume Oscillator (PVO) Indicator](https://ctrader.com/algos/indicators/show/2882) and [Percentage Volume Oscillator [ChartSchool]](https://school.stockcharts.com/doku.php?id=technical_indicators:percentage_volume_oscillator_pvo)
 
