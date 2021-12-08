@@ -6,6 +6,5 @@ While MACD measures the absolute difference between two moving averages, PPO mak
 
 MACD levels are affected by the price of a security. A high-priced security will have higher or lower MACD values than a low-priced security, even if volatility is basically equal. This is because MACD is based on the absolute difference in the two moving averages. 
 
-More details: [Percentage Price Oscillator (PPO) Indicator](https://ctrader.com/algos/indicators/show/2881)
-
+More details: [Percentage Price Oscillator (PPO) Indicator](https://ctrader.com/algos/indicators/show/2881) and [Percentage Price Oscillator [ChartSchool]](https://school.stockcharts.com/doku.php?id=technical_indicators:price_oscillators_ppo)
 
