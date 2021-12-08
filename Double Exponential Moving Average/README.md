@@ -4,5 +4,5 @@ The Double Exponential Moving Average (DEMA) reduces the lag of traditional EMAs
 
 The overlay uses the lag difference between a single-smoothed EMA and a double-smoothed EMA to offset the single-smoothed EMA. This offset produces a moving average that remains smooth, but stays closer to the price bars than either the single- or double-smoothed traditional EMA.
 
-More details: [Double Exponential Moving Average (DEMA) Indicator](https://ctrader.com/algos/indicators/show/2877)
+More details: [Double Exponential Moving Average (DEMA) Indicator](https://ctrader.com/algos/indicators/show/2877) and [Double Exponential Moving Average (DEMA) [ChartSchool]](https://school.stockcharts.com/doku.php?id=technical_indicators:dema)
 
